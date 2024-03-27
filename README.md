@@ -1,4 +1,10 @@
-# React + TypeScript + Vite
+# Lista de Tareas con React y TypeScript
+Proyecto para agregar y quitar una lista de tareas usando React y TypeScript.
+Basado en el curso TypeScript desde Cero de SergieCode 
+https://youtu.be/UTA5bykCx2c?si=HTTtwkWnT5pa1m4M
+
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
